@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com desenvolvimento full-stack
 - 🌱 Estudando Laravel
 - 📫 Contate-me no e-mail: lucasvieira717@gmail.com
-- 😄 Pronouns: ele/Dele
+- 😄 Pronomes: ele/Dele
 
 <div>
   <a href="https://github.com/LucasVieira2902">
