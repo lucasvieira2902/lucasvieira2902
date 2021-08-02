@@ -4,6 +4,10 @@
 - 🌱 Estudando Laravel
 - 📫 Contate-me no e-mail: lucasvieira717@gmail.com
 - 😄 Pronomes: ele/Dele
+- 
+<a href="https://webtechnology.com.br/" target="_blank">
+  <img align="center" title="Web Technology" alt="Web Technology" width="350" src="https://webtechnology.com.br/images/logo-2.svg">
+</a>
 
 <div>
   <a href="https://github.com/LucasVieira2902">
