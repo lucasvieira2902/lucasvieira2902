@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com desenvolvimento full-stack
 - 🌱 Estudando Laravel
 - 📫 Contate-me no e-mail: lucasvieira717@gmail.com
-- 😄 Pronomes: ele/Dele
+- 😄 Pronomes: ele/dele
 
 <a href="https://webtechnology.com.br/" target="_blank">
   <img align="center" title="Web Technology" alt="Web Technology" width="350" src="https://webtechnology.com.br/images/logo-2.svg">
