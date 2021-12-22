@@ -1,7 +1,7 @@
 ### Olá 👋!! Eu sou Lucas Vieira
 
 - 🔭 Hoje trabalho com desenvolvimento full-stack
-- 🌱 Estudando Laravel
+- 👨‍💻 Desenvolvedor Laravel
 - 📫 Contate-me no e-mail: lucasvieira717@gmail.com
 - 😄 Pronomes: ele/dele
 
