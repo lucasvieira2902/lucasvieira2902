@@ -9,9 +9,9 @@
 ```
 <div class="center">
   <a href="https://github.com/LucasVieira2902">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvieira96&theme=tokyonight"/><br/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasvieira2902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieira2902&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvieira96&theme=tokyonight"/>
   </a>
 </div>
  <br/>
