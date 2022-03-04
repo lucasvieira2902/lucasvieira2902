@@ -53,5 +53,5 @@
 <br>
 <img src="https://github.com/lucasvieira2902/lucasvieira2902/blob/output/github-contribution-grid-snake.svg">
 <br>
-<img width="500em" src="https://wakatime.com/share/@lucasvieira96/3c3b367d-822f-464c-971c-9fff8640c264.svg">
-<img width="500em" src="https://wakatime.com/share/@lucasvieira96/32796226-2ebd-4eea-b447-80457866a4bf.svg">
+<img width="450em" src="https://wakatime.com/share/@lucasvieira96/9756d21b-7314-45d2-bb32-6cb1316e149c.svg">
+<img width="450em" src="https://wakatime.com/share/@lucasvieira96/f5c0cead-9bae-4dd4-ae3b-ad6d0dbf824d.svg">
