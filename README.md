@@ -3,7 +3,7 @@
 ```yaml
 👤 Name: Lucas Vieira;
 📍 Living: Penha - SC, Brazil;
-📚 Schooling: Bachelor of Cience Computer at UNIVALI;
+📚 Schooling: Bachelor of Science Computer at UNIVALI;
 💼 Work: Laravel and Flutter Developer;
 📧 Contact: lucasvieira717@gmail.com
 ```
