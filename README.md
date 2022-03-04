@@ -7,7 +7,7 @@
 💼 Work: Laravel and Flutter Developer;
 📧 Contact: lucasvieira717@gmail.com
 ```
-<div class="center">
+<div align="center">
   <a href="https://github.com/LucasVieira2902">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasvieira96&theme=tokyonight"/><br/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasvieira2902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,7 @@
 </div>
  <br/>
 <!--LINGUAGENS:-->
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" title="Javascript" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -43,12 +43,14 @@
     
   ##
  
-<div>
+<div align="center">
   <a href = "mailto:lucasvieira717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasvieira96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/lucasvieira1996/" {target="_blank"}><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   
  
   ![Snake animation](https://github.com/lucasvieira2902/lucasvieira2902/blob/output/github-contribution-grid-snake.svg)
+  
+  <a href="https://github.com/lucasvieira2902/github-readme-activity-graph"><img alt="Lucas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lucasvieira2902&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 </div>
