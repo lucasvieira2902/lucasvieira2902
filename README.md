@@ -50,8 +50,8 @@
   <a href = "mailto:lucasvieira717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasvieira96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/lucasvieira1996/" {target="_blank"}><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  
- 
-  ![Snake animation](https://github.com/lucasvieira2902/lucasvieira2902/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<br>
+<img src="https://github.com/lucasvieira2902/lucasvieira2902/blob/output/github-contribution-grid-snake.svg">
+<br>
+<img width="500em" src="https://wakatime.com/share/@lucasvieira96/3c3b367d-822f-464c-971c-9fff8640c264.svg">
+<img width="500em" src="https://wakatime.com/share/@lucasvieira96/32796226-2ebd-4eea-b447-80457866a4bf.svg">
