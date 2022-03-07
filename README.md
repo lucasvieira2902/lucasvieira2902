@@ -8,7 +8,7 @@
 👤 Name: Lucas Vieira;
 📍 Living: Penha - SC, Brazil;
 📚 Schooling: Bachelor of Science Computer at UNIVALI;
-💼 Work: Laravel and Flutter Developer;
+💼 Work: Laravel and Flutter Developer at Web Technology;
 📧 Contact: lucasvieira717@gmail.com
 ```
 [![wakatime](https://wakatime.com/badge/user/8d082b9a-0e74-448e-81c6-301b6d111b5d.svg)](https://wakatime.com/@8d082b9a-0e74-448e-81c6-301b6d111b5d)
