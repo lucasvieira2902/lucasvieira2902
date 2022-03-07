@@ -10,6 +10,8 @@
 📚 Schooling: Bachelor of Science Computer at UNIVALI;
 💼 Work: Laravel and Flutter Developer at Web Technology;
 📧 Contact: lucasvieira717@gmail.com
+
+"People don't know what they want until you show it to them." Steve Jobs 
 ```
 [![wakatime](https://wakatime.com/badge/user/8d082b9a-0e74-448e-81c6-301b6d111b5d.svg)](https://wakatime.com/@8d082b9a-0e74-448e-81c6-301b6d111b5d)
 <div align="center">
