@@ -1,6 +1,8 @@
-<a href="https://webtechnology.com.br">
-  <img align="center" title="Web Technology" alt="Web Technology" width="350" src="https://webtechnology.com.br/images/logo-2.svg" style="margin-bottom: 0px;">
-</a>
+<div align="center">
+  <a href="https://webtechnology.com.br">
+    <img align="center" title="Web Technology" alt="Web Technology" width="350" src="https://webtechnology.com.br/images/logo-2.svg" style="margin-bottom: 0px;">
+  </a>
+</div>
 
 ```yaml
 👤 Name: Lucas Vieira;
