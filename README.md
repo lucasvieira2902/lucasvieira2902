@@ -14,6 +14,8 @@
 "People don't know what they want until you show it to them." Steve Jobs 
 ```
 [![wakatime](https://wakatime.com/badge/user/8d082b9a-0e74-448e-81c6-301b6d111b5d.svg)](https://wakatime.com/@8d082b9a-0e74-448e-81c6-301b6d111b5d)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lucasvieira2902.lucasvieira2902)](https://github.com/lucasvieira2902) [![GitHub followers](https://img.shields.io/github/followers/lucasvieira2902.svg?style=social&label=Follow)](https://github.com/lucasvieira2902?tab=followers)
+
 <div align="center">
   <a href="https://github.com/LucasVieira2902">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8d082b9a-0e74-448e-81c6-301b6d111b5d&theme=algolia"/><br/>
