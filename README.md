@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/LucasVieira2902">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8d082b9a-0e74-448e-81c6-301b6d111b5d&theme=algolia"/><br/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8d082b9a-0e74-448e-81c6-301b6d111b5d&theme=algolia"/><br/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasvieira2902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieira2902&layout=compact&langs_count=7&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
