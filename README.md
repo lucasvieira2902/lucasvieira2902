@@ -8,7 +8,7 @@
 👤 Name: Lucas Vieira;
 📍 Living: Penha - SC, Brazil;
 📚 Schooling: Bachelor of Science Computer at UNIVALI;
-💼 Work: Developer at Web Technology;
+💼 Work: Developer at Web Technology and Experienced Software Development Analyst at Philips;
 📧 Contact: lucasvieira717@gmail.com
 
 "People don't know what they want until you show it to them." Steve Jobs 
