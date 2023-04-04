@@ -19,7 +19,6 @@
 
 <div align="center">
   <a href="https://github.com/LucasVieira2902">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8d082b9a-0e74-448e-81c6-301b6d111b5d&theme=algolia"/><br/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasvieira2902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieira2902&layout=compact&langs_count=7&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
@@ -59,8 +58,3 @@
   <a href="https://www.facebook.com/lucasvieira1996/" {target="_blank"}><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 <br>
 <img src="https://github.com/lucasvieira2902/lucasvieira2902/blob/output/github-contribution-grid-snake.svg">
-<br>
-<a align="center" href="https://github.com/LucasVieira2902">
-  <img width="400px" src="https://wakatime.com/share/@lucasvieira96/78e161e1-b99d-4e03-b34d-e80e3f0542d9.svg">
-  <img width="400px" src="https://wakatime.com/share/@lucasvieira96/2fa9c769-3576-4d80-84ca-7ba9c1a15150.svg">
-</a>
