@@ -14,14 +14,11 @@
 "People don't know what they want until you show it to them." Steve Jobs 
 ```
 [![GitHub followers](https://img.shields.io/github/followers/lucasvieira2902.svg?style=social&label=Follow)](https://github.com/lucasvieira2902?tab=followers)
-[![wakatime](https://wakatime.com/badge/user/8d082b9a-0e74-448e-81c6-301b6d111b5d.svg)](https://wakatime.com/@8d082b9a-0e74-448e-81c6-301b6d111b5d)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lucasvieira2902.lucasvieira2902)](https://github.com/lucasvieira2902)
 
-<div align="center">
-  <a href="https://github.com/LucasVieira2902">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasvieira2902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieira2902&layout=compact&langs_count=7&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasVieira2902&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Vieira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVieira2902&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
  <br/>
 <!--LINGUAGENS:-->
@@ -55,6 +52,5 @@
 <div align="center">
   <a href = "mailto:lucasvieira717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasvieira96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/lucasvieira1996/" {target="_blank"}><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://webtechnology.com.br" {target="_blank"}><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 <br>
-<img src="https://github.com/lucasvieira2902/lucasvieira2902/blob/output/github-contribution-grid-snake.svg">
