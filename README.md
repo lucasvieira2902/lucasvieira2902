@@ -9,7 +9,7 @@
 📍 Living: Penha - SC, Brazil;
 📚 Schooling: Bachelor of Science Computer at UNIVALI;
 💼 Work: Software Engineering at Web Technology and Experienced Software Development Analyst at Philips;
-📧 Contact: lucasvieira717@gmail.com
+📧 Contact: lvieira@webtechnology.com.br
 👨‍💻 Specialty: TALL Stack Developer
 
 "People don't know what they want until you show it to them." Steve Jobs
@@ -37,15 +37,18 @@
   <img align="center" title="Bootstrap" alt="Lucas-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" title="Flutter" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" title="Tailwind" alt="Lucas-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">  
+  <img align="center" title="Vite" alt="Lucas-Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"> 
   <img align="center" title="Alpine" alt="Lucas-Alpine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg">  
   <img align="center" title="Laravel" alt="Lucas-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">  
   <img align="center" title="Livewire" alt="Lucas-Livewire" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg">
+  <img align="center" title="Filament" alt="Lucas-FilamentPHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filamentphp/filamentphp-original.svg">
        
 <!--BANCOS:-->
   <img align="center" title="Oracle" alt="Lucas-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" title="Postgres" alt="Lucas-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" title="SQL Server" alt="Lucas-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" title="MySql" alt="Lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" title="SQLite" alt="Lucas-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
   <img align="center" title="Firebase" alt="Lucas-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" title="Redis" alt="Lucas-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 <!--FERRAMENTAS:-->
@@ -59,5 +62,4 @@
 <div align="center">
   <a href = "mailto:lucasvieira717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasvieira96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://webtechnology.com.br" {target="_blank"}><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 <br>
